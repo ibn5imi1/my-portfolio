@@ -108,6 +108,7 @@ window.onscroll = function() {
         });
     };
 
+
     // contact animation
     if(window.scrollY > contactMe.offsetTop - 750) {
         inputContainer.forEach((div)=> {
